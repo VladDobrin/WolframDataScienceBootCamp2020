@@ -10,4 +10,4 @@ The analysis focused on using clustering, supervised machine learning, unsupervi
 Some major conclusions include the ability to predict the type of workout based on features such as: duration, average heart rate, maximum heart rate, distance, speed, temperature, and humidity.
 Visualizations of workouts were able to be performed and clusters of workouts were visible based on the type of workout performed. 
 
-The project won Favorite as voted by the sixty plus attendies as well as 2020 Wolfram Data Science Boot Camp Rookie Award. It has been submitted for Wolfram Data Science Level 2 Certification and is awaiting a response for successful completion
+The project won Favorite as voted by the sixty-plus attendees as well as 2020 Wolfram Data Science Boot Camp Rookie Award. It has been submitted for Wolfram Data Science Level 2 Certification and is awaiting a response for successful completion
